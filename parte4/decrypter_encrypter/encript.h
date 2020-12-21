@@ -1,0 +1,1 @@
+void encriptar(char *message);

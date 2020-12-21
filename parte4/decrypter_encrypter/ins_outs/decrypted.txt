@@ -1,0 +1,11 @@
+Para redirecionar o fluxo de entrada de dados na linguagem C, é necessário q
+
+ue após compilar o código o programador adicione a o sinal de menor que (<) 
+
+seguido de um arquivo ou fluxo de dados válido.
+
+O mesmo se aplica para a saída e a saída de erros padrão, porém é necess�
+
+�rio se usar o sinal de maior que (>) e 2> para redirecionar as saídas, respe
+
+ctivamente.
