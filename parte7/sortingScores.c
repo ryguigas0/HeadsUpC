@@ -8,7 +8,7 @@ int compare_fn(const void *score_a, const void *score_b)
 {
     /* const void *score_* ->  ponteiro de qualquer tipo de dado constante */
     int a = *(int *)score_a; /* (int *) -> faz um cast no ponteiro void para ponteiro int*/
-    int b = *(int *)score_b; /* *(int *) -> faz o cast e pega o valor qie o ponteiro aponta*/
+    int b = *(int *)score_b; /* *(int *) -> faz o cast e pega o valor que o ponteiro aponta*/
     return a - b;
 }
 

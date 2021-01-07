@@ -1,8 +1,11 @@
-coquetel: coquetel.c
-	gcc coquetel.c -o coquetel
+linkedList: linkedList.c
+	gcc linkedList.c -o linkedList
 
-pedidoFrutas: pedidoFrutas.c
-	gcc pedidoFrutas.c -o pedidoFrutas
+dynamicMemory: dynamicMemory.c
+	gcc dynamicMemory.c -o dynamicMemory
 
-bitfields: bitfields.c
-	gcc bitfields.c -o bitfields
+sips: sips.c
+	gcc sips.c -o sips
+
+debug sips: sips.c
+	gcc -g sips.c -o sips

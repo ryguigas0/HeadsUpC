@@ -1,11 +1,14 @@
-linkedList: linkedList.c
-	gcc linkedList.c -o linkedList
+filtering: filtering.c
+	gcc filtering.c -o filtering
 
-dynamicMemory: dynamicMemory.c
-	gcc dynamicMemory.c -o dynamicMemory
+sortingScores: sortingScores.c
+	gcc sortingScores.c -o sortingScores
 
-sips: sips.c
-	gcc sips.c -o sips
+sortingStrings: sortingStrings.c
+	gcc sortingStrings.c -o sortingStrings
 
-debug sips: sips.c
-	gcc -g sips.c -o sips
+enums: enums.c
+	gcc enums.c -o enums
+
+flexibleParams: flexibleParams.c
+	gcc flexibleParams.c -o flexibleParams
