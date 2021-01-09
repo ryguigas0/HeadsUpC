@@ -11,4 +11,4 @@ libTest: libTest.c libezsecurity.a
 	gcc libTest.c -L . -lezsecurity -o libTest
 
 clean:
-	rm -r -f *.a && rm -r -f *.o
+	rm -r -f *.a *.o
