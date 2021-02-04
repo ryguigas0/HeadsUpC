@@ -1,0 +1,13 @@
+github.com
+microsoft.com
+youtube.com
+google.com
+golang.org
+ibm.com
+mozilla.org
+protonmail.com
+duckduckgo.com
+theuselessweb.com
+heeeeeeeey.com
+hooooooooo.com
+ebay.com

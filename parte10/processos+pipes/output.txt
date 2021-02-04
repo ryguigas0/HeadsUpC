@@ -1,0 +1,26 @@
+Request to hooooooooo.com - 200 OK
+
+Request to theuselessweb.com - 200 OK
+
+Request to duckduckgo.com - 200 OK
+
+Request to heeeeeeeey.com - 200 OK
+
+Request to google.com - 200 OK
+
+Request to youtube.com - 200 OK
+
+Request to microsoft.com - 200 OK
+
+Request to ebay.com - 200 OK
+
+Request to github.com - 200 OK
+
+Request to golang.org - 200 OK
+
+Request to protonmail.com - 200 OK
+
+Request to mozilla.org - 200 OK
+
+Request to ibm.com - 200 OK
+
